@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625462406 source:c:\users\asus\documents\data e\its\sem 2\pemrograman lanjut\tes\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<mmsystem.h>
+	<windowsx.h>
+
